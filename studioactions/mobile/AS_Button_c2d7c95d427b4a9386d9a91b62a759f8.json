@@ -1,0 +1,47 @@
+{
+    "AS_Button_c2d7c95d427b4a9386d9a91b62a759f8": {
+        "id": "AS_Button_c2d7c95d427b4a9386d9a91b62a759f8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAccount",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a84ea94c3c44435f8b6f2f2282f46ad7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_SERVICE_efffcf2c3bed4216a247ab92b21c0302",
+            "type": "INVOKE_IDENTITY_SERVICE",
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "operationname": "logout",
+                "servicename": "UserAuthentication",
+                "type": "identity",
+                "isDeepLinkRequired": false,
+                "login_type": "basic"
+            },
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "useDeviceBrowser": false,
+            "isDeepLinkRequired": false
+        }, {
+            "id": "NAVIGATE_TO_FORM__c031574dfd8f4283b331f04a7fb7d4ef",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmLogin",
+            "formKUID": "j0965439879a4f309b91d23eb8363ede",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "INVOKE_SERVICE_efffcf2c3bed4216a247ab92b21c0302",
+            "callbackType": "Success",
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

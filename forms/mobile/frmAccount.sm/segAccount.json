@@ -1,0 +1,328 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "96dp"
+    },
+    "_data_": [
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblAccName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Name"
+            },
+            "lblAccType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "AccountType"
+            },
+            "lblAvailableblnc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Available Balance"
+            },
+            "lblBlnce": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$ 350"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "89dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "editstyle": "none",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "f29bd1ac2b694076a1267389ce58be15",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segAccount",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "editStyle": "none",
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e0161a3cefa5472a99310b6302072eeb",
+    "masterType": 1,
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flexMain",
+    "pf": "frmAccount",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "f29bd1ac2b694076a1267389ce58be15",
+    "rowcounter": 9,
+    "rowfocusskin": "s9dd8575a7ae49b1b1febd7727b8bcde",
+    "rowskin": "s14774a14f8141e3b03f37ef51704406",
+    "rowtemplate": "Flex0a0cab4da5a9b44",
+    "seccounter": 0,
+    "sectionheaderskin": "s1d0de79e3d34cb3b199d36fd38de0cb",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetdatamap": {
+        "Flex0a0cab4da5a9b44": "Flex0a0cab4da5a9b44",
+        "flxAccNameWithImage": "flxAccNameWithImage",
+        "lblAccName": "lblAccName",
+        "lblAccType": "lblAccType",
+        "lblAvailableblnc": "lblAvailableblnc",
+        "lblBlnce": "lblBlnce",
+        "lblLine": "lblLine"
+    },
+    "zindex": 1
+}
